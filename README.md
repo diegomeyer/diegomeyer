@@ -2,9 +2,19 @@
 
 
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-My name is Diego Rodrigues Meyer. I work as a Data Engineer at Santander Tecnologia.
 
+class DataEngineer:
+    def __init__(self):
+        self.name = "Diego Rodrigues Meyer"
+        self.role = "Data Engineer"
+
+
+me = DataEngineer()
+```
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=diegomeyer&repo=diegomeyer&countColorcountColor)
 
